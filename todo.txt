@@ -1,0 +1,17 @@
+
+# Modification date: Mon Jun 26 17:09:42 2023
+
+# Production date: Sun Sep  3 15:43:51 2023
+
+-->26/06/2023
+->Yapılacaklar
+-Geçici yol parçaları(asset)
+-Araba(asset)
+-İlerleme mantığı
+-Yol mantığı
+-Arkaplan(asset)
+
+->Fikirler
+-Bulut vs?
+-Dönemeçler?
+-Hareketli arkaplan(araba dönünce değişiyor vs)?
